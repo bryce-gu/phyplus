@@ -1,0 +1,19 @@
+#MAC
+1FFF80C0-M
+0405000000ff
+040500000000
+040500000001
+040500000002
+040500000003
+040500000004
+040500000005
+040500000006
+040500000007
+040500000008
+040500000009
+
+
+//First 2 line is the config header,1st #[Name], 2nd [Addr]-[Format]
+//[Format] support M : BigEndian, L:LittleEndian,S:ACSII
+//[val] all in hex mode
+//support comment,//
